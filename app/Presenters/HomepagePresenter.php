@@ -18,7 +18,14 @@ final class HomepagePresenter extends Nette\Application\UI\Presenter
     {
         $this->template->brands = $this->database
             ->table('brands')
-            ->order('name DESC')
+            ->order('name ASC')
             ->limit(20);
+    }
+    public function handleDelete($id)
+    {
+        $this->database->table('brands')->where('id', $id)->delete();
+
+        $this->flashMessage("Smazáno");
+        $this->redirect("Homepage:default");
     }
 }
