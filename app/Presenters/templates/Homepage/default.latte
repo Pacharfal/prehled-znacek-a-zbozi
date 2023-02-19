@@ -1,7 +1,18 @@
-{* This is the welcome page, you can delete it *}
 
 {block content}
-<div id="banner">
-	<h1 n:block=title>Hello world !</h1>
-</div>
+	<h1>SRP</h1>
+	<a n:href="Edit:create" class="waves-effect waves-light btn-large">+ PŘIDAT ZNAČKU</a>
+<table>
+	<tr>
+		<th>Název <a href="">&uarr;</a> <a href="">&darr;</a></th>
+		<th>Akce</th>
+	</tr>
+	<tr n:foreach="$brands as $brand" class="brand">
+		<td>{$brand->name}</td>
+		<td><a href="">Smazat</a>  <a href="">Editovat</a></td>
+
+	</tr>
+</table>
+{/block}
+
 

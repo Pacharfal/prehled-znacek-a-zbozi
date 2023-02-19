@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
+	<!-- Favicona -->
 	<link rel="apple-touch-icon" sizes="180x180" href="../../../www/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="../../../www/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="../../../www/favicon-16x16.png">
@@ -10,16 +11,32 @@
 	<link rel="mask-icon" href="/www/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
-	<title>{ifset title}{include title|stripHtml} | {/ifset}Nette Web</title>
+	<!--<link rel="stylesheet" href="{$basePath}/css/style.css"> -->
+	<!-- Compiled and minified CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+	<!-- Compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+	<!--Let browser know website is optimized for mobile-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+	<title>{ifset title}{include title|stripHtml} | {/ifset}Sportisimo</title>
+
+	
 </head>
 
 <body>
+
 	<div n:foreach="$flashes as $flash" n:class="flash, $flash->type">{$flash->message}</div>
 
 	{include content}
 
 	{block scripts}
-	<script src="https://nette.github.io/resources/js/3/netteForms.min.js"></script>
+		<!--JavaScript at end of body for optimized loading-->
+		<script type="text/javascript" src="{$basePath}/www/js/bin/materialize.js"></script>
+
+
+
 	{/block}
 </body>
 </html>
