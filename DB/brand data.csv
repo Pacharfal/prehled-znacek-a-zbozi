@@ -1,0 +1,335 @@
+id,name
+1,Nike
+2,Peter England
+3,Soch
+4,Reebook
+5,Puma
+6,Vero moda
+7,And
+8,Allen solly
+9,Being human
+10,Zara
+11,addidas
+12,UCB
+13,Biba
+14,Clovia
+15,Gas
+16,Guess
+17,Tommy Hilfiger
+18,Tom Tailor
+19,Globus
+20,Jack & Jones
+21,Athena
+22,John player
+23,Only
+24,Yepme
+25,Wrangler
+26,Lotto
+27,Lee Cooper
+28,Van Heusen
+29,Woodland
+30,Lee
+31,Levi's
+32,Park Avenue
+33,Nike
+34,Peter England
+35,kiton
+36,Reebook
+37,Puma
+38,Vero moda
+39,Allen solly
+40,Being human
+41,Zara
+42,addidas
+43,Arrow
+44,UCB
+45,Gas
+46,Guess
+47,Tommy Hilfiger
+48,Incult
+49,Tom Tailor
+50,Raymond
+51,Globus
+52,Jack & Jones
+53,John player
+54,Yepme
+55,Wrangler
+56,Lotto
+57,Lee Cooper
+58,BlackBerrys
+59,Red tape
+60,Van Heusen
+61,Woodland
+62,Mufti
+63,Lee
+64,Levi's
+65,Park Avenue
+66,Nike
+67,Reebook
+68,Puma
+69,addidas
+70,UCB
+71,Gas
+72,Tommy Hilfiger
+73,Incult
+74,Tom Tailor
+75,Jack & Jones
+76,Yepme
+77,Lotto
+78,Lee Cooper
+79,Mochi
+80,Van Heusen
+81,Woodland
+82,Levi's
+83,Asics
+84,Bata
+85,Clarks
+86,Columbia
+87,Cyke
+88,DC
+89,Fila
+90,FLX
+91,HRX
+92,Kappa
+93,Lee cooper
+94,Li Ning
+95,Lotto
+96,Mizuno
+97,Nike
+98,Power
+99,Puma
+100,Salomon
+101,Skechers
+102,Sparx
+103,Spunk
+104,Superdry
+105,The North Face
+106,Umbro
+107,Vans
+108,Vittaly
+109,Wildcraft
+110,20 Dresses
+111,Addons
+112,Adidas Neo
+113,Adidas Originals
+114,Aerosoles
+115,Alcott
+116,Aldo
+117,Allen Solly
+118,Anouk
+119,Berry Purple
+120,Blue Button
+121,Bruno Manetti
+122,Carlton London
+123,Catwalk
+124,Ceriz
+125,Chalk Studio
+126,Chumbak
+127,Claude Lorrain
+128,Cobblerz
+129,Cole Haan
+130,Columbia
+131,Com-Fit
+132,Crocs
+133,D muse by Dressberry
+134,Deafoams
+135,Disney
+136,Dr. Scholl
+137,DressBerry
+138,FabAlley
+139,Fashion Masala
+140,Fiorella
+141,Flat n Heels
+142,Flipside
+143,Footilicious
+144,Footin
+145,Forever 21
+146,Freetoes
+147,FunkyFish
+148,Get Glamr
+149,Ginger by Lifestyle
+150,Gliders
+151,Globalite
+152,Gnist
+153,Guava
+154,Havaianas
+155,Hi Attitude
+156,iLo
+157,Inc 5
+158,Intoto
+159,Ipanema
+160,Jove
+161,Kielz
+162,Klaur Melbourne
+163,Knotty Derby
+164,Kook n Keech
+165,Kook n keech Disney
+166,La Briza
+167,Lamere
+168,Lavie
+169,Liza
+170,Madlove
+171,Marc Loire
+172,Marcha Ballerina
+173,Marie Claire
+174,Marks & Spencer
+175,Mast & Harbour
+176,Melange by Lifestyle
+177,Metro
+178,Mochi
+179,Mod Squad
+180,Mossimo 
+181,MTV
+182,Naturalizer
+183,Nell
+184,New Look
+185,Nike
+186,Nine West
+187,North Star
+188,Paprika by Lifestyle
+189,Pavers England
+190,People
+191,Puma
+192,Qupid
+193,Reebok Classic
+194,Reebok
+195,Replay
+196,Roadster
+197,Rocia
+198,roxy
+199,Salt n Pepper
+200,Shoetopia
+201,Skechers
+202,Soft & Sleek
+203,Sole Threads
+204,Solovoga
+205,Soludos
+206,Sparx
+207,Spunk
+208,Steve Madden
+209,Stri
+210,Sundrops
+211,Ta Chic
+212,Tao Paris
+213,TheLabelLife.com
+214,Timberland
+215,Tresmode
+216,Truffle Collection
+217,United colors of Benetton
+218,Urbane
+219,Valiosaa
+220,Van Heusen
+221,Van Heusen Woman
+222,Vaph
+223,Vero Couture
+224,Vero Moda
+225,Wellworth
+226,Wet Blue
+227,Yatha
+228,Yo Jelo
+229,Zebba
+230,Yepme
+231,Numero Uno
+232,WROGN
+233,Woodland
+234,Wonker
+235,White
+236,Weinbrenner
+237,Wave Walk
+238,Valentino
+239,tZaro
+240,Turtle
+241,Tycoon
+242,Tommy Hilfiger
+243,Supra
+244,Style Centrum
+245,Spunk
+246,Sir Corbett
+247,Siciliano Shoes
+248,Scotch & Soda
+249,Santa Monica
+250,San Frissco
+251,Ruosh
+252,Rockport
+253,Roadster
+254,Red Tape
+255,Red Chief
+256,Randier
+257,Quiksilver
+258,Quarks
+259,Quads
+260,Pureits Leathers
+261,Pure Play
+262,Provogue
+263,Prolific
+264,Original Penguin
+265,Original Swat
+266,Mr Button
+267,Mochi
+268,Mocas
+269,mancini
+270,Mactree
+271,Louis Philippe
+272,kenneth cole
+273,Juan David
+274,Italia
+275,Inmark
+276,ID
+277,Hush Puppies
+278,Hubberholme
+279,Hirolas
+280,High Sierra
+281,Harvard
+282,Harry Hill
+283,H.E. by Mango
+284,Guava
+285,Globalite
+286,Gliders
+287,Giovane K
+288,Gas
+289,Ganuchi
+290,G sports
+291,Funku Fashion
+292,Funk 
+293,Froskie
+294,Freecultr
+295,Franco Leone
+296,Forca
+297,Footlodge
+298,Footin
+299,Fentacia
+300,Engross
+301,Egoss
+302,Duke
+303,Doc & Mark
+304,Diesel
+305,DC
+306,Converse
+307,Columbia
+308,Code by Lifestyle
+309,Clarus
+310,Clarks
+311,Capland
+312,Capz
+313,Buckaroo
+314,Breakbounce
+315,Boltio
+316,blu Frog
+317,Blend
+318,Blackberrys
+319,Big Boon
+320,BCK by Buckaroo
+321,Base one one
+322,Bareskin
+323,Bacca Bucci
+324,Autograph
+325,Arthur
+326,Apaache
+327,Antony Morato
+328,Andrew Scott
+329,American Swan
+330,Alpes Martin
+331,Aldo
+332,Alcott
+333,Alberto Toressi
+334,A by Arden

@@ -1,0 +1,1 @@
+CREATE TABLE `csv_db 11`.`brands` (`id` INT NOT NULL AUTO_INCREMENT , `name` VARCHAR(256) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;

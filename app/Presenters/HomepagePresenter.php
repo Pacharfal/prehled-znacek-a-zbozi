@@ -21,6 +21,7 @@ final class HomepagePresenter extends Nette\Application\UI\Presenter
             ->order('name ASC')
             ->limit(20);
     }
+
     public function handleDelete($id)
     {
         $this->database->table('brands')->where('id', $id)->delete();
